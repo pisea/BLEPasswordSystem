@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">BLE Password System</string>
+
+    <!-- App text -->
+    <string name="password_input_title">システム解消</string>
+    <string name="password_reset_title">パスワード再設定</string>
+
+    <string name="password_input_message">システム解消を行うためパスワードを入力してください。</string>
+    <string name="password_reset_message">パスワード再設定を行います。新しいパスワードと確認のためもう一度パスワードを入力してください。</string>
+
+    <string name="password_input_text">パスワード</string>
+    <string name="password_reset_text">パスワード（確認）</string>
+
+    <string name="password_send_button_text">システム解消</string>
+    <string name="password_reset_button_text">パスワード再設定</string>
+
+    <!-- MS -->
+    <string name="MS01">システムに接続しました。</string>
+    <string name="MS02">パスワードの再設定が完了しました。</string>
+    <string name="MS03">パスワード確認が完了しました。\nご利用有難うございます。</string>
+
+    <!-- ES -->
+    <string name="ES01">システムのパスワードが設定されてません。\n再設定を行います。</string>
+    <string name="ES02">パスワードが違います。\n再入力してください。</string>
+
+    <!-- MA -->
+    <string name="MA01">システム確認が完了しました。</string>
+
+    <!-- EA -->
+    <string name="EA01">システムが確認されてません。\nシステム端末を確認してください。</string>
+    <string name="EA02">システムに接続が出来ません。\nシステム端末を確認してください。</string>
+    <string name="EA03">パスワードが一致してません。</string>
+    <string name="EA04">パスワードを入力してください。</string>
+
+    <!-- Dialog -->
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">cancel</string>
+    <string name="dialog_rescan">再探索</string>
+    <string name="dialog_reconnect">再接続</string>
+
+    <!-- Progress Dialog-->
+    <string name="dialog_search_Device">システム端末を確認してます。</string>
+    <string name="dialog_connect_Device">システム端末に接続してます。</string>
+
+</resources>

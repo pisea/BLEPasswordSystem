@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- common -->
+    <color name="app_def_background">#FFFFFFFF</color>
+    <color name="app_def_text_color">#FF000000</color>
+
+    <!-- password layout-->
+    <color name="password_title_color">#FFFFFFFF</color>
+
+</resources>
