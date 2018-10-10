@@ -5,4 +5,3 @@ BLE clientへ接続してパスワードの変更や解除するアプリ
 
 - Espr Developer 32
 - Client program
-# BLEPasswordSystem
